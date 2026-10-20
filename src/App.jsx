@@ -22,20 +22,20 @@ export default function App() {
   // ─── Motion Section ───────────────────────────────────────────────────────
   if (isMotionSection) {
     const shortformVideos = [
-      { id: 'sf-1', title: '80/20 Rule for Creators', video: '/edits/80_20 Rule for Creators -15sec.mp4', glowColor: '#cf5a1d' },
-      { id: 'sf-2', title: 'Mr. B Showreel', video: '/edits/mr B 20sec.mp4', glowColor: '#9e1a1a' },
-      { id: 'sf-3', title: 'Pasupati Travel Vlog', video: '/edits/pasupati travel 20sec.mp4', glowColor: '#cf5a1d' },
-      { id: 'sf-4', title: 'Client Showcase', video: '/edits/Client wrk Linked Comp 02_10.mp4', glowColor: '#9e1a1a' },
-      { id: 'sf-5', title: 'Glow Radiant Edit', video: '/edits/Glow radiant Linked Comp 01_1.mp4', glowColor: '#cf5a1d' },
-      { id: 'sf-6', title: 'Radiant Series I', video: '/edits/Radiant 1 Linked Comp 01_4.mp4', glowColor: '#9e1a1a' },
-      { id: 'sf-7', title: 'Radiant Series V', video: '/edits/Radiant 5 Linked Comp 01.mp4', glowColor: '#cf5a1d' },
-      { id: 'sf-8', title: 'Respect Motion Edit', video: '/edits/Respect Linked Comp 01.mp4', glowColor: '#9e1a1a' },
-      { id: 'sf-9', title: 'Sunscreen Commercial', video: '/edits/Sunscream Linked Comp 01.mp4', glowColor: '#cf5a1d' },
-      { id: 'sf-10', title: 'Client Testimonial', video: '/edits/Testimonial Linked Comp 01.mp4', glowColor: '#9e1a1a' },
-      { id: 'sf-11', title: 'Shampoo Brand Spot', video: '/edits/shampoo Linked Comp 01.mp4', glowColor: '#cf5a1d' }
+      { id: 'sf-1', title: '80/20 Rule for Creators', video: '/Compressed/80_20 Rule for Creators -15sec - compressed.mp4', glowColor: '#cf5a1d' },
+      { id: 'sf-2', title: 'Mr. B Showreel', video: '/Compressed/mr B 20sec - compressed.mp4', glowColor: '#9e1a1a' },
+      { id: 'sf-3', title: 'Pasupati Travel Vlog', video: '/Compressed/pasupati travel 20sec - compressed.mp4', glowColor: '#cf5a1d' },
+      { id: 'sf-4', title: 'Client Showcase', video: '/Compressed/Client wrk Linked Comp 02_10 - compressed.mp4', glowColor: '#9e1a1a' },
+      { id: 'sf-5', title: 'Glow Radiant Edit', video: '/Compressed/Glow radiant Linked Comp 01_1 - compressed.mp4', glowColor: '#cf5a1d' },
+      { id: 'sf-6', title: 'Radiant Series I', video: '/Compressed/Radiant 1 Linked Comp 01_4 - compressed.mp4', glowColor: '#9e1a1a' },
+      { id: 'sf-7', title: 'Radiant Series V', video: '/Compressed/Radiant 5 Linked Comp 01 - compressed.mp4', glowColor: '#cf5a1d' },
+      { id: 'sf-8', title: 'Respect Motion Edit', video: '/Compressed/Respect Linked Comp 01 - compressed.mp4', glowColor: '#9e1a1a' },
+      { id: 'sf-9', title: 'Sunscreen Commercial', video: '/Compressed/Sunscream Linked Comp 01 - compressed.mp4', glowColor: '#cf5a1d' },
+      { id: 'sf-10', title: 'Client Testimonial', video: '/Compressed/Testimonial Linked Comp 01 - compressed.mp4', glowColor: '#9e1a1a' },
+      { id: 'sf-11', title: 'Shampoo Brand Spot', video: '/Compressed/shampoo Linked Comp 01 - compressed.mp4', glowColor: '#cf5a1d' }
     ];
     const doubledShortforms = [...shortformVideos, ...shortformVideos];
-    const podcastVideo = { id: 'pod-1', title: 'Hiring Team & Scalable Systems', topic: 'Scaling operations & building custom scalable platforms.', duration: '0:50', video: '/edits/Hiring team & building scalable systems 50sec.mp4' };
+    const podcastVideo = { id: 'pod-1', title: 'Hiring Team & Scalable Systems', topic: 'Scaling operations & building custom scalable platforms.', duration: '0:50', video: '/Compressed/Hiring team & building scalable systems 50sec - compressed.mp4' };
 
     return (
       <div className="portfolio-wrapper" style={{ backgroundColor: '#FF1818' }}>

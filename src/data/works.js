@@ -154,7 +154,7 @@ export const works = [
     type: 'reel',
     title: '80/20 Rule for Creators',
     description: 'Practical creator strategies outlining dynamic hook building and audio pacing structures.',
-    videoUrl: '/edits/80_20 Rule for Creators -15sec.mp4',
+    videoUrl: '/Compressed/80_20 Rule for Creators -15sec - compressed.mp4',
     thumbnail: '/poster/Branding1.jpg',
     metrics: { views: '184K', likes: '22.4K', shares: '4.5K' },
     duration: '0:15'
@@ -164,7 +164,7 @@ export const works = [
     type: 'reel',
     title: 'Mr. B Showreel',
     description: 'High-energy pacing and sound-design sequences tuned for maximum audience retention.',
-    videoUrl: '/edits/mr B 20sec.mp4',
+    videoUrl: '/Compressed/mr B 20sec - compressed.mp4',
     thumbnail: '/poster/Branding2.jpg',
     metrics: { views: '320K', likes: '41.2K', shares: '9.8K' },
     duration: '0:20'
@@ -174,7 +174,7 @@ export const works = [
     type: 'reel',
     title: 'Pasupati Travel Vlog',
     description: 'Cinematic color grading and smooth transitions mapping ancient travel landscapes.',
-    videoUrl: '/edits/pasupati travel 20sec.mp4',
+    videoUrl: '/Compressed/pasupati travel 20sec - compressed.mp4',
     thumbnail: '/poster/Leymoon1.jpg',
     metrics: { views: '112K', likes: '14.8K', shares: '2.1K' },
     duration: '0:20'
@@ -184,7 +184,7 @@ export const works = [
     type: 'reel',
     title: 'Client Showcase',
     description: 'Dynamic brand client showcase with high impact visual motion editing.',
-    videoUrl: '/edits/Client wrk Linked Comp 02_10.mp4',
+    videoUrl: '/Compressed/Client wrk Linked Comp 02_10 - compressed.mp4',
     thumbnail: '/poster/Leymoon2.jpg',
     metrics: { views: '95K', likes: '11.2K', shares: '1.8K' },
     duration: '0:25'
@@ -194,7 +194,7 @@ export const works = [
     type: 'reel',
     title: 'Glow Radiant Edit',
     description: 'Radiant aesthetic color grade and smooth motion composite cuts.',
-    videoUrl: '/edits/Glow radiant Linked Comp 01_1.mp4',
+    videoUrl: '/Compressed/Glow radiant Linked Comp 01_1 - compressed.mp4',
     thumbnail: '/poster/Poster5.png',
     metrics: { views: '142K', likes: '19.4K', shares: '3.1K' },
     duration: '0:30'
@@ -204,7 +204,7 @@ export const works = [
     type: 'reel',
     title: 'Radiant Series I',
     description: 'High frequency motion cuts and glowing typography overlays.',
-    videoUrl: '/edits/Radiant 1 Linked Comp 01_4.mp4',
+    videoUrl: '/Compressed/Radiant 1 Linked Comp 01_4 - compressed.mp4',
     thumbnail: '/poster/Post-4.png',
     metrics: { views: '210K', likes: '28.6K', shares: '5.2K' },
     duration: '0:30'
@@ -214,7 +214,7 @@ export const works = [
     type: 'reel',
     title: 'Radiant Series V',
     description: 'Cinematic commercial edit showcasing premium product lighting.',
-    videoUrl: '/edits/Radiant 5 Linked Comp 01.mp4',
+    videoUrl: '/Compressed/Radiant 5 Linked Comp 01 - compressed.mp4',
     thumbnail: '/poster/Onam 7.png',
     metrics: { views: '168K', likes: '21.0K', shares: '3.9K' },
     duration: '0:28'
@@ -224,7 +224,7 @@ export const works = [
     type: 'reel',
     title: 'Respect Motion Edit',
     description: 'Bold rhythm cuts matched with custom audio track pacing.',
-    videoUrl: '/edits/Respect Linked Comp 01.mp4',
+    videoUrl: '/Compressed/Respect Linked Comp 01 - compressed.mp4',
     thumbnail: '/poster/Milad Poster-6.png',
     metrics: { views: '195K', likes: '24.3K', shares: '4.1K' },
     duration: '0:22'
@@ -234,7 +234,7 @@ export const works = [
     type: 'reel',
     title: 'Sunscreen Commercial Spot',
     description: 'Vibrant product commercial reel with fluid liquid motion effects.',
-    videoUrl: '/edits/Sunscream Linked Comp 01.mp4',
+    videoUrl: '/Compressed/Sunscream Linked Comp 01 - compressed.mp4',
     thumbnail: '/poster/LIVE_POSTER_VBS.png',
     metrics: { views: '280K', likes: '36.5K', shares: '7.4K' },
     duration: '0:26'
@@ -244,7 +244,7 @@ export const works = [
     type: 'reel',
     title: 'Client Testimonial Reel',
     description: 'Engaging interview cut with dynamic text highlights.',
-    videoUrl: '/edits/Testimonial Linked Comp 01.mp4',
+    videoUrl: '/Compressed/Testimonial Linked Comp 01 - compressed.mp4',
     thumbnail: '/poster/Independence Day Poster.png',
     metrics: { views: '130K', likes: '15.8K', shares: '2.7K' },
     duration: '0:35'
@@ -254,7 +254,7 @@ export const works = [
     type: 'reel',
     title: 'Shampoo Brand Spot',
     description: 'Sleek cosmetic brand spot featuring high-frame-rate particle detail.',
-    videoUrl: '/edits/shampoo Linked Comp 01.mp4',
+    videoUrl: '/Compressed/shampoo Linked Comp 01 - compressed.mp4',
     thumbnail: '/poster/5 Product carousel.jpg',
     metrics: { views: '245K', likes: '31.1K', shares: '6.3K' },
     duration: '0:24'
